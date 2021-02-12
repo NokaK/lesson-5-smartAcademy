@@ -1,0 +1,36 @@
+.navbar-li{
+	display: inline-block;
+}
+.navbar-a {
+	/*font-family: "ALK Rex Bold", sans-serif;*/
+	font-family: 'ALKRex Bold';
+}
+.box {
+	background-color: green;
+	padding: 50px;
+}
+h1 {
+	font-size: 40px;
+	margin-top: 50px;
+}
+.wrapper-text {
+	display: inline-block;
+	width: 300px;
+	vertical-align: middle;
+	background-color: red;
+	margin: 20px;
+}
+.block-text {
+	display: inline-block;
+	width: 500px;
+	vertical-align: middle;
+	background-color: blue;
+	margin: 20px;
+}
+.block-second-text{
+	display: inline-block;
+	width: 300px;
+	vertical-align: top;
+	background-color: purple;
+	margin: 20px;
+}
